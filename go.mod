@@ -1,4 +1,4 @@
-module set
+module github.com/rullyafrizal/go-set
 
 go 1.17
 
